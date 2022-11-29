@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 1.541 sec <<< FAILURE! - in TestSuite
+setUp(testscripts.MyInfoSalaryTest)  Time elapsed: 1.112 sec  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "base.PredefinedActions.driver" is null
+
